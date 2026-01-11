@@ -1,0 +1,8 @@
+{
+  "name": "Hi-Tech UPVC Hardwares",
+  "description": "A comprehensive product catalog and management system for UPVC hardware components, including handles, hinges, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
